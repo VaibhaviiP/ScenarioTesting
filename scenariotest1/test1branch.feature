@@ -3,3 +3,4 @@ Feature:
 
   Scenario:
     New Scenario
+This is edited from Git 
